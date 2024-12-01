@@ -1,4 +1,4 @@
-@ZielCodingChallenge_HostAddress = http://localhost:5189
+@ZielCodingChallenge_HostAddress = http://localhost:5144
 
 GET {{ZielCodingChallenge_HostAddress}}/getCreditCardInfoValid
 Accept: application/json
